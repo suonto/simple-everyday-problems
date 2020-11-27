@@ -1,4 +1,5 @@
 # Simple Everyday Problems
+Overly simple everyday problems to check if you even can code.
 
 ## Problem 1: JSON Pretty Print
 You received a bit of JSON data and you just want to format it nicely so that for each value in the document, the nested path for it would be clearly visible. Example:
