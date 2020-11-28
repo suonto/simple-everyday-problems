@@ -1,0 +1,12 @@
+{
+  "banana": {
+    "colors": [
+      "green",
+      "yellow"
+    ],
+    "tastes": {
+      "ripe": "sweet",
+      "raw": "sour"
+    }
+  }
+}

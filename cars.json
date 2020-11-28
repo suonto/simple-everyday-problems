@@ -1,0 +1,18 @@
+{
+  "toyota": {
+    "wheels": [
+      "big",
+      "small"
+    ],
+    "models": [
+      {
+        "corolla": {
+          "color": {
+            "light": "grey",
+            "dark": "blue"
+          }
+        }
+      }
+    ]
+  }
+}
